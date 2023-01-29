@@ -1,0 +1,17 @@
+operand1 := 5
+operand2 := ( operand1 + 3 *4 ;
+operand3 := ( operand1 + 3 ( * 3 ;
+operand4 := operand1 * ( operand2 + 1 ;
+operand5 := ( ) operand1 + 2) * 3 ; ;
+operand6 := ( operand1 + 2) * + 3 ;
+operand7 := ( operand1 + 2) * * 3 ;
+operand8 := ( operand1 + 2) * 3
+operand9 := ( operand1 + 2) * 3 ; ;
+operand10 = ( operand1 + 2) * 3 ;
+operand11 : ( operand1 + 2) * 3 ;
+operand12 w:= operand1 + 2 ;
+operand13 operand1 + 2 * 3 
+
+
+
+

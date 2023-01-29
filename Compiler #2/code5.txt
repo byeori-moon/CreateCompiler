@@ -1,0 +1,14 @@
+first {
+	variable a, b, c;
+	p;
+}
+first {
+	variable x, a;
+	b;
+	print_ari;
+	q;
+}
+main {
+	variable p, q;
+	call first;
+}

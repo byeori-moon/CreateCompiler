@@ -1,0 +1,20 @@
+last{
+	d;
+	print_ari;
+}
+third {
+	call last;
+	d;
+}
+second {
+	variable b, c, d;
+	call third;
+}
+first {
+	variable a, b, c;
+	call second;
+}
+main {
+	variable p, q;
+	call first;
+}

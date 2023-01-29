@@ -1,0 +1,7 @@
+first {
+	variable a, , c;
+}
+main {
+	variable p, q;
+	call first;
+}
